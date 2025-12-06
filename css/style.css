@@ -1095,7 +1095,7 @@ body.a-propos .a-propos-madoudinette .section-final h2 {
 /* || FOOTER ||  */
 
 footer {
-    /* font-size: 1.2rem */;
+    /* font-size: 1.2rem ; */
     color: rgb(233, 233, 233);
     padding: 4rem;
     background-color: var(--color-dark-green, #255b2c);
@@ -1421,5 +1421,6 @@ footer p {
     
 
 }
+
 
 
