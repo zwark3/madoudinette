@@ -89,7 +89,6 @@ input, button, textarea {
 .wrapper-footer-list ul.f-visible-mobile {
     overflow: visible;
     max-height: 300px; /* appliquer height ne marcherait pas car la hauteur serait fixée et il se peut que certains éléments prennent trop de place. On utilise max-height de telle manière à ce qu'on mette en place une taille qui ne va jamais être dépassée en permettant aux éléments d'avoir leur taille par défaut
-    /* transition: all .5s ease-out; */
 }
 
 .f-transit-mobile {
@@ -570,7 +569,7 @@ body.contact-page main {
     height: 60px;
     border: 3px solid #bf9f71;
     border-radius: 50%;
-    transition: all 1s; /* transition bordure */
+    /* transition: all 1s; transition bordure */
 }
 
 .inquiries-link a svg {
@@ -1254,7 +1253,7 @@ footer p {
     }
 
     .lang-btn-switcher .lang-mobile:not([class*="active"]) {
-        transition: all .2s;
+        transition: background-color.2s, color .2s;
     }
 
     .lang-btn-switcher .lang-mobile:not([class*="active"]):active {
@@ -1422,4 +1421,5 @@ footer p {
     
 
 }
+
 
