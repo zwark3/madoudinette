@@ -875,7 +875,8 @@ body.poisson .titre_produit{
 
 .presentation_produit{
     padding: 1rem 1rem;
-    width: 80%;
+    width: 65%;
+    margin: 0 auto;
 }
 
 .composition{
@@ -1368,6 +1369,7 @@ footer p {
     }
 
 }
+
 
 
 
