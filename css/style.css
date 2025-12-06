@@ -857,8 +857,8 @@ body.poisson .titre_produit{
 }
 .titre_produit{
     background-repeat: no-repeat;
-    width: 50%;
     padding: 1rem;
+    flex: 1;
 }
 .titre_produit > h1{
     color: floralwhite;
@@ -877,6 +877,10 @@ body.poisson .titre_produit{
     padding: 1rem 1rem;
     width: 65%;
     margin: 0 auto;
+}
+
+.description_produit {
+    flex: 3;
 }
 
 .composition{
@@ -1369,6 +1373,7 @@ footer p {
     }
 
 }
+
 
 
 
