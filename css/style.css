@@ -1219,6 +1219,12 @@ footer p {
     }
 }
 
+@media screen and (max-width : 900px) {
+    .form-wrapper form .name-row {
+        flex-direction: column;
+    }
+}
+
 
 /* HEADER */
 @media screen and (max-width: 1130px) {
@@ -1355,9 +1361,8 @@ footer p {
         text-align: center;
     }
 
-    .
-
 }
+
 
 
 
