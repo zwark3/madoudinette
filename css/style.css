@@ -765,7 +765,7 @@ body.catalogue .catalogue-banner ul {
     flex-direction: column;
     align-items: flex-start;
     gap: 20px;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 body.catalogue .para-qustion-cta {
@@ -782,8 +782,13 @@ body.catalogue .para-qustion-cta {
     transition: background-color .3s;
 }
 
-.wrap-btn-product .btn-product {
+body.catalogue .wrap-btn-product .btn-product {
     width: 80%;
+    margin: 0 auto;
+}
+
+body.produit .wrap-btn-product .btn-product {
+    width: 30%;
     margin: 0 auto;
 }
 
@@ -1384,6 +1389,7 @@ footer p {
         width: 80%;
     }
 }
+
 
 
 
