@@ -875,7 +875,7 @@ body.poisson .titre_produit{
 
 .presentation_produit{
     padding: 1rem 1rem;
-    width: 45%;
+    width: 65%;
     margin: 0 auto;
 }
 
@@ -909,7 +909,7 @@ body.poisson .titre_produit{
     background-color: #E7820A;
     border-radius: 10px;
     padding: 1.5rem 3rem;
-    width: 65%;
+    width: 45%;
     margin: 0 auto;
 }
 
@@ -1380,6 +1380,7 @@ footer p {
         display: none;
     }
 }
+
 
 
 
