@@ -934,109 +934,63 @@ body.poisson .titre_produit{
     width: 100%;
 }
 
-/*----------------------------------------------
-   PAGE : MADOUDHISTOIRE (A-PROPOS)
-----------------------------------------------*/
-body.a-propos {
-    background-color: var(--main-bg-color, #fdf8f0); 
-    overflow-x: hidden; 
+/* -------------------------------------- */
+/* MAIN : PAGE A PROPOS */
+/* -------------------------------------- */
+
+main.a-propos-madoudinette {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
 }
 
-body.a-propos main.a-propos-madoudinette {
-    font-family: Arial, sans-serif;
-    padding-top: 35px;
-    padding-bottom: 35px;
-    color: #333;
-}
-
-/* TITRE PRINCIPAL */
-body.a-propos .a-propos-madoudinette .intro {
+/* INTRO */
+.intro {
     text-align: center;
-    max-width: 800px;
-    margin: 0 auto 25px auto;
+    padding: 50px 20px;
 }
 
-body.a-propos .a-propos-madoudinette .intro h1 {
-    font-size: 38px;
-    font-weight: 600;
-    margin-bottom: 5px; 
+.intro h1 {
+    font-size: 40px;
 }
 
-body.a-propos .a-propos-madoudinette .intro p {
-    font-size: 16px;
-    color: #777;
-}
-
-/* --- BANNIÈRE ALIGNÉE --- */
-body.a-propos .a-propos-madoudinette .section-banniere-image {
-    max-width: 950px; 
-    margin: 0 auto 35px auto;
-    padding: 0 20px; 
-    height: 250px; 
-    overflow: hidden; 
-}
-
-body.a-propos .a-propos-madoudinette .section-hero-image img {
+/* BANNIERE */
+.section-banniere-image img {
     width: 100%;
-    height: 100%; 
-    object-fit: cover; 
-    display: block;
+    border-radius: 12px;
+    margin: 40px 0;
 }
 
-
-/* --- STYLES Section 1 et 2 --- */
-body.a-propos .a-propos-madoudinette .section {
-    max-width: 950px;
-    margin: 0 auto 35px auto;
+/* SECTIONS AVEC IMAGE + TEXTE */
+.section {
     display: flex;
-    align-items: center; 
-    justify-content: space-between;
-    gap: 20px;
-    padding: 0 20px;
+    align-items: center;
+    gap: 40px;
+    margin: 70px 0;
 }
 
-/* --- IMAGE SECTION 1 & 2 --- */
-body.a-propos .a-propos-madoudinette .section img {
-    width: 45%; 
-    height: auto;
-    max-height: none; 
-    object-fit: contain; 
-    display: block;
-    box-shadow: none;
+.section img {
+    width: 50%;
+    border-radius: 12px;
 }
 
-body.a-propos .a-propos-madoudinette .section .text {
-    width: 55%; 
-    height: auto;
-    padding: 0; 
-    background-color: transparent; 
-    box-shadow: none;
+.section .text {
+    width: 50%;
 }
 
-/* STYLES DES TEXTES */
-body.a-propos .a-propos-madoudinette .section h2 {
-    font-size: 28px;
-    font-weight: 700;
-    margin-bottom: 8px;
-}
-
-body.a-propos .a-propos-madoudinette .section p {
-    font-size: 16px;
-    line-height: 1.5; 
+.section h2 {
+    font-size: 32px;
+    margin-bottom: 15px;
 }
 
 /* SECTION FINALE */
-body.a-propos .a-propos-madoudinette .section-final {
-    max-width: 950px;
-    margin: 35px auto 0 auto;
+.section-final {
     text-align: center;
+    margin: 80px 0;
 }
 
-body.a-propos .a-propos-madoudinette .section-final h2 {
-    margin-bottom: 40px;
-    margin-top:40px;
-    font-size: 32px;
-    font-weight: 700;
+.section-final h2 {
+    font-size: 34px;
 }
 
 /* || FAQ || */
@@ -1203,15 +1157,28 @@ footer p {
 /* || RESPONSIVE || */
 /* Le responsive est agencé en fonction des différents éléments. */
 /* Les breakpoints (taille choisie) dépendent d'à partir de quand les éléments deviennent "cassés". */
+
+
+
 @media screen and (max-width: 1095px) {
     .contact-page main {
         gap: 90px;
     }
-
     /* Catalogue */
     body.catalogue .wrapper-list-products {
         flex-direction: column;
         align-items: center;
+    }
+
+    /* À propos  */
+    .section {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .section img,
+    .section .text {
+        width: 100%;
     }
 
 }
@@ -1385,7 +1352,24 @@ footer p {
     body.produit .fiche_produit {
         width: 80%;
     }
+
+    .intro h1 {
+        font-size: 32px;
+    }
+
+    .section h2 {
+        font-size: 26px;
+    }
+
+    
+    @media (max-width: 480px) {
+        .intro h1 {
+            font-size: 26px;
+        }
+
+    
 }
+
 
 
 
