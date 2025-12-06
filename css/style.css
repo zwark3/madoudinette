@@ -1324,7 +1324,42 @@ footer p {
         transition: color .2s;
     }
 
+    .hero-layout,
+    .story-layout,
+    .products-layout {
+        flex-direction: column;
+    }
+
+    .hero {
+        text-align: center;
+    }
+
+    .hero-buttons {
+        justify-content: center;
+    }
+
+    .hero-visual {
+        margin-top: 20px;
+    }
+
+    .hero-label {
+        position: static;
+        margin-top: 10px;
+    }
+
+    .commitments-grid {
+        flex-direction: column;
+    }
+
+    .contact-inner {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .
+
 }
+
 
 
 
