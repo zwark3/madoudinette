@@ -1380,10 +1380,11 @@ footer p {
         display: none;
     }
 
-    body .produit .fiche-produit {
+    body.produit .fiche-produit {
         width: 60%;
     }
 }
+
 
 
 
