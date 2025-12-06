@@ -737,7 +737,6 @@ body.catalogue .catalogue-banner ul {
 }
 
 .wrapper-list-products .product-box {
-    min-width: 25%;
     text-align: center;
     background-color: #FAD375;
     padding: 1.5rem;
@@ -1214,9 +1213,6 @@ footer p {
         align-items: center;
     }
 
-    body.catalogue .wrapper-list-products .product-box {
-        max-width: 30%;
-    }
 }
 
 @media screen and (max-width : 900px) {
@@ -1378,6 +1374,7 @@ footer p {
     }
 
 }
+
 
 
 
