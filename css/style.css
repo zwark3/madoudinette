@@ -1220,6 +1220,12 @@ footer p {
 }
 
 @media screen and (max-width : 900px) {
+
+    .inquiries-wrapper,
+    .form-wrapper {
+        max-width: 450px;
+    }
+    
     .form-wrapper form .name-row {
         flex-direction: column;
     }
@@ -1362,6 +1368,7 @@ footer p {
     }
 
 }
+
 
 
 
