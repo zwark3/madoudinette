@@ -1228,7 +1228,8 @@ footer p {
 
     .inquiries-wrapper,
     .form-wrapper {
-        max-width: 350px;
+        max-width: 100%;
+        width: 100%;
     }
     
     .form-wrapper form .name-row {
@@ -1373,6 +1374,7 @@ footer p {
     }
 
 }
+
 
 
 
