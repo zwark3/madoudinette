@@ -900,15 +900,14 @@ body.poisson .titre_produit{
 }
 
 .fiche_produit{
+    color: white;
     background-color: #E7820A;
     border-radius: 10px;
     padding: 1.5rem 3rem;
+    width: 65%;
     margin: 0 auto;
 }
 
-.fiche_produit *{
-    color: white;
-}
 .titres_resume{
     font-weight: bold;
 }
@@ -1369,6 +1368,7 @@ footer p {
     }
 
 }
+
 
 
 
