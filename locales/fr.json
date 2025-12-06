@@ -1,0 +1,295 @@
+{
+    "_comment": "header",
+    "navHome": "Accueil",
+    "navAbout": "MadoudHistoire",
+    "navProduct": "Nos produits",
+    "navContact": "Contact",
+    "navQna": "FAQ",
+
+    "_comment": "contactez-nous",
+    "inquiries-title": "Contactez-nous !",
+    "para-questions": "Avez-vous une question, une demande spécifique ou besoin d’informations supplémentaires ?",
+    "para-help": "Nous sommes là pour vous aider !",
+    "address": "Adresse",
+    "follow": "Suivez-nous sur :",
+
+    "contact-form-title": "Formulaire de contact",
+    "contact-name": "Prénom",
+    "contact-lastname": "Nom de famille",
+    "contact-phone-number": "Numéro de téléphone",
+    "contact-subject": "Sujet",
+    "contact-required-fields": "Champs obligatoires",
+    "contact-send-btn": "Envoyer",
+    "contact-reset-btn": "Réinitialiser",
+
+    "_comment": "a-propos",
+    "about-history-title": "L’Histoire De Madoudinette",
+    "about-history-subtitle": "Pour que chaque cuillère raconte une histoire de famille, de passion et de confiance",
+    "about-section1-title": "Tout a commencé avec une maman...",
+    "about-section1-text": "Madoudinette est née d’un simple constat : les repas pour bébé manquent souvent de goût, de transparence et d’amour. Ce manque de saveur et l'utilisation d'ingrédients transformés ont poussé une maman passionnée à agir. Elle a voulu offrir à son enfant et à tous les autres, des repas sains, faits maison et riches en saveurs authentiques. De cette envie sincère est née une marque engagée, qui redonne aux tout-petits le plaisir de découvrir le vrai goût des aliments, à travers des recettes naturelles, équilibrées et pleines de tendresse. Nous sommes une histoire de famille.",
+    "about-section2-title": "Des recettes maison, pensées pour eux",
+    
+    "about-section2-text": "Chaque pot Madoudinette est préparé avec soin et attention, comme à la maison. Nous sélectionnons rigoureusement nos légumes et fruits auprès de producteurs locaux et engagés, garantissant une fraîcheur et une qualité nutritionnelle maximales. Nos recettes sont ensuite élaborées en collaboration avec des nutritionnistes spécialisés dans la petite enfance. La cuisson douce préserve les vitamines, les textures et les couleurs, pour offrir aux bébés des repas à la fois sains, savoureux et respectueux de la nature. C’est notre promesse de transparence totale.",
+    "about-values-title": "Nos valeurs, Notre promesse…",
+
+    "_comment": "catalogue",
+    "products-page-title": "Madoudinette, le goût du monde des bébés",
+    "products-page-subtitle": "Découvrez nos saveurs inspirées du monde, 100% Halal et bio adaptées aux besoins des tout-petits pour assurer une expérience culinaire unique dès 6 mois.",
+    "products-features-halal": "Halal",
+    "products-features-bio": "Bio",
+    "products-features-no-additives": "Sans additifs",
+
+    "product-yassa-title": "Yassa Poulet",
+    "product-yassa-desc": "La célèbre recette sénégalaise",
+    "product-yassa-button-learn": "En savoir plus",
+    "product-yassa-button-buy": "Achetez maintenant",
+    "product-yassa-button-cart": "Ajoutez un panier",
+
+    "product-mafe-title": "Mafé Boeuf",
+    "product-mafe-desc": "Le grand classique d'Afrique de l'Ouest",
+    "product-mafe-button-learn": "En savoir plus",
+    "product-mafe-button-buy": "Achetez maintenant",
+    "product-mafe-button-cart": "Ajoutez un panier",
+
+    "product-tieb-title": "Tieb Poisson",
+    "product-tieb-desc": "Une expérience culinaire unique",
+    "product-tieb-button-learn": "En savoir plus",
+    "product-tieb-button-buy": "Achetez maintenant",
+    "product-tieb-button-cart": "Ajoutez un panier",
+
+    "catalogue-contact-text": "Une question ? Contactez-nous !",
+    "catalogue-contact-button": "Nous contacter",
+
+    "_comment": "tieb poisson produit",
+    "product-tieb-page-title": "Tieb Poisson – Repas bébé",
+    "product-tieb-page-subtitle": "Découvrez une expérience culinaire unique dès 6 mois, riche en saveurs et adaptée aux besoins des tout-petits.",
+
+    "product-tieb-feature-halal": "Halal",
+    "product-tieb-feature-bio": "Bio",
+    "product-tieb-feature-no-additives": "Sans additifs",
+
+    "product-tieb-desc-main": "Découvrez une expérience culinaire unique avec notre Tcheboudienne au Poisson pour les tout-petits.",
+    "product-tieb-desc-details": "Inspiré du célèbre plat sénégalais, ce repas savoureux a été spécialement adapté aux besoins nutritionnels des jeunes enfants dès 6 mois.",
+
+    "product-tieb-ingredients-title": "Ingrédients",
+    "product-tieb-ingredients-list": "Fonio, légumes soigneusement sélectionnés et poisson délicatement émietté.",
+    "product-tieb-ingredients-note": "Sa texture douce et fondante facilite la dégustation pour les jeunes palais. Chaque bouchée devient une invitation à l'éveil des sens et à la découverte des saveurs d'Afrique et du monde.",
+
+    "product-tieb-comp-poisson": "Poisson",
+    "product-tieb-comp-fonio": "Fonio",
+    "product-tieb-comp-legumes": "Légumes",
+
+    "product-tieb-benefits-title": "Bienfaits",
+    "product-tieb-benefits-desc": "Plus qu'un simple plat, le Tieb Poisson est un repas complet conçu pour contribuer activement au développement harmonieux de bébé. Riche en vitamines et minéraux, il soutient à la fois la croissance, l'immunité et le bon fonctionnement du cerveau.",
+
+    "product-tieb-info-title": "Infos utiles",
+    "product-tieb-age-label": "Âge conseillé:",
+    "product-tieb-age-value": "dès 6 mois",
+    "product-tieb-portion-label": "Portion:",
+    "product-tieb-portion-value": "200 g",
+    "product-tieb-allergen-label": "Allergène:",
+    "product-tieb-allergen-value": "poisson",
+    "product-tieb-storage-label": "Conservation:",
+    "product-tieb-storage-value": "À conserver à température ambiante et à consommer dans les 24h après ouverture",
+    "product-tieb-prep-label": "Mode de préparation:",
+    "product-tieb-prep-value": "Réchauffer au bain-marie ou au micro-ondes (sans le couvercle)",
+
+    "product-tieb-button-buy": "Achetez maintenant",
+    "product-tieb-button-cart": "Ajoutez un panier",
+
+    "_comment": "Yassa Poulet product page",
+    "product-yassa-page-title": "Yassa Poulet – Repas bébé",
+    "product-yassa-page-subtitle": "La célèbre recette sénégalaise adaptée dès 6 mois pour les tout-petits",
+    "product-yassa-feature-halal": "Halal",
+    "product-yassa-feature-bio": "Bio",
+    "product-yassa-feature-no-additives": "Sans additifs",
+
+    "product-yassa-desc-main": "Cette version douce et équilibrée du célèbre plat sénégalais permet de faire découvrir à votre tout-petit les saveurs du Yassa au Poulet dès 6 mois, tout en respectant ses besoins nutritionnels.",
+
+    "product-yassa-composition-title": "Composition",
+    "product-yassa-composition-details": "Notre Yassa au Poulet est préparé à base de blanc de poulet tendre, accompagné de légumes finement mijotés et d'une sauce aux oignons doux, adoucie pour convenir au palais délicat des jeunes enfants.",
+    "product-yassa-composition-note": "Sa texture fondante et ses saveurs équilibrées offrent une première approche parfaite d'une cuisine riche, variée et culturelle.",
+    "product-yassa-comp-poulet": "Poulet",
+    "product-yassa-comp-oignon": "Oignon",
+
+    "product-yassa-benefits-title": "Les bienfaits",
+    "product-yassa-benefits-desc": "Au-delà du plaisir gustatif, le Yassa au Poulet constitue un repas complet et hautement nutritif. Chaque portion est pensée pour accompagner la croissance de bébé et soutenir son développement physique et cognitif au quotidien.",
+
+    "product-yassa-info-title": "Infos utiles",
+    "product-yassa-age-label": "Âge conseillé:",
+    "product-yassa-age-value": "dès 6 mois",
+    "product-yassa-portion-label": "Portion:",
+    "product-yassa-portion-value": "200 g",
+    "product-yassa-allergen-label": "Allergène:",
+    "product-yassa-allergen-value": "aucun",
+    "product-yassa-storage-label": "Conservation:",
+    "product-yassa-storage-value": "24h au réfrigérateur après ouverture",
+    "product-yassa-prep-label": "Mode de préparation:",
+    "product-yassa-prep-value": "Réchauffer au bain-marie ou au micro-ondes (sans le couvercle)",
+
+    "product-yassa-button-buy": "Achetez maintenant",
+    "product-yassa-button-cart": "Ajoutez un panier",
+
+   
+    "_comment": "homepage",
+    "hp-intro-tag": "Cuisine maison, inspirations du monde",
+    "hp-intro-title": "Le goût du monde, adapté aux bébés",
+    "hp-intro-subtitle": "Des petits pots cuisinés avec des ingrédients simples, des épices douces et beaucoup d’amour, pour éveiller les papilles en douceur.",
+    "hp-intro-btn-products": "Découvrir nos produits",
+    "hp-intro-btn-story": "Découvrir notre histoire",
+    "hp-intro-badge-1": "Sans conservateurs",
+    "hp-intro-badge-2": "Recettes inspirées d’Afrique",
+    "hp-intro-badge-3": "Pensé par une maman",
+    "hp-intro-label-title": "Madou-Mafé",
+    "hp-intro-label-text": "Courge, patate douce, légumes du soleil et épices douces.",
+
+    "hp-eng-title": "Nos engagements pour vos bébés",
+    "hp-eng-text": "Chaque recette est pensée pour conjuguer goût, sécurité et découverte.",
+    "hp-eng1-title": "Ingrédients simples",
+    "hp-eng1-text": "Des fruits et légumes que vous reconnaissez, cuisinés comme à la maison, sans conservateurs ni colorants ajoutés.",
+    "hp-eng2-title": "Saveurs du monde",
+    "hp-eng2-text": "Des recettes inspirées de la cuisine africaine et d’ailleurs, adaptées aux tout-petits avec des épices dosées tout en douceur.",
+    "hp-eng3-title": "Pensé par une maman",
+    "hp-eng3-text": "Madoudinette est portée par une maman qui connaît la réalité des repas du quotidien et l’envie de bien faire, sans culpabiliser.",
+
+    "hp-story-title": "Derrière chaque pot, une histoire de transmission",
+    "hp-story-p1": "En tant que maman, l’envie de faire découvrir les saveurs d’ici et d’ailleurs à son bébé se heurte souvent au manque de temps. Madoudinette est née de cette réalité.",
+    "hp-story-p2": "L’idée : proposer des petits pots qui rappellent les plats de nos mamans et grands-mères, en version adaptée, rassurante et prête à l’emploi.",
+    "hp-story-p3": "Chaque recette raconte un morceau du voyage culinaire de la fondatrice, entre Afrique, Europe et influences du monde.",
+
+    "hp-prod-title": "Une collection de recettes qui voyagent",
+    "hp-prod-text": "Des plats complets pour bébé, inspirés des cuisines africaines et du monde, avec des légumes, des légumineuses et des épices douces.",
+    "hp-prod-pill-1": "Madou-Mafé",
+    "hp-prod-pill-2": "Madou-Yassa",
+    "hp-prod-pill-3": "Madou-Thiéb",
+    "hp-prod-list-1": "Textures adaptées aux différentes étapes de diversification.",
+    "hp-prod-list-2": "Association de légumes, féculents et épices douces.",
+    "hp-prod-list-3": "Recettes imaginées pour réconcilier culture, plaisir et praticité.",
+    "hp-prod-btn-news": "Être informé des prochaines sorties",
+
+    "hp-contact-title": "Vous souhaitez goûter ou collaborer ?",
+    "hp-contact-text": "Parents, crèches, professionnels ou distributeurs : parlons de Madoudinette, des besoins de vos bébés et de vos attentes.",
+    "hp-contact-btn": "Écrire à Madoudinette",
+
+    "_comment": "Mafé Boeuf product page",
+    "product-mafe-page-title": "Mafé Boeuf",
+    "product-mafe-page-subtitle": "Le grand classique d'Afrique de l'Ouest dès 6 mois",
+    
+    "product-mafe-feature-halal": "Halal",
+    "product-mafe-feature-bio": "Bio",
+    "product-mafe-feature-no-additives": "Sans additifs",
+
+    "product-mafe-desc-main": "Offrez à votre enfant un véritable moment de découverte culinaire avec notre Mafé Boeuf pour bébé, une version spécialement élaborée de ce grand classique d'Afrique de l'Ouest.",
+    "product-mafe-desc-details": "Adaptée aux besoins des bébés dès 6 mois, cette recette allie goût, équilibre nutritionnel et douceur pour éveiller le palais de votre tout-petit en toute sécurité.",
+
+    "product-mafe-composition-title": "Composition",
+    "product-mafe-composition-desc": "Préparé avec du boeuf fondant, des légumes bio mijotés et une sauce douce à base d'arachide, notre Mafé Boeuf offre une texture onctueuse et un goût délicatement fumé.",
+    
+    "product-mafe-comp-beef": "Boeuf",
+    "product-mafe-comp-veggies": "Légumes Bio",
+    "product-mafe-comp-peanuts": "Arachides",
+
+    "product-mafe-benefits-title": "Les bienfaits",
+    "product-mafe-benefits-desc1": "Notre Mafé Boeuf a été pensé pour respecter la richesse des traditions culinaires africaines tout en répondant aux besoins spécifiques de l'alimentation infantile.",
+    "product-mafe-benefits-desc2": "Elaboré avec des ingrédients naturels et équilibrés, ce petit pot constitue une source essentielle de nutriments nécessaires au développement de votre enfant.",
+
+    "product-mafe-info-title": "Infos utiles",
+    "product-mafe-info-age-label": "Âge conseillé:",
+    "product-mafe-info-age-value": "dès 6 mois",
+    "product-mafe-info-portion-label": "Portion:",
+    "product-mafe-info-portion-value": "200 g",
+    "product-mafe-info-allergen-label": "Allergène:",
+    "product-mafe-info-allergen-value": "cacahuètes",
+    "product-mafe-info-storage-label": "Conservation:",
+    "product-mafe-info-storage-value": "à conserver à température ambiante et à consommer dans les 24h après ouverture",
+    "product-mafe-info-prep-label": "Mode de préparation:",
+    "product-mafe-info-prep-value": "réchauffer au bain-marie ou au micro-ondes (sans le couvercle)",
+
+    "_comment": "faq",
+    "faq-title": "Foire aux questions",
+
+    "faq-ques-card-1": "Est-ce qu'on peut déjà acheter tes petits pots ?",
+    "faq-card1-p1": "Pas encore.",
+    "faq-card1-p2": "Les petits pots Madoudinette sont actuellement en phase de développement avec un laboratoire spécialisé pour garantir une qualité parfaite et une sécurité optimale pour bébé.",
+    "faq-card1-p3": "En attendant, je propose des ateliers de cuisine bébé pour apprendre à préparer des purées et compotes maison avec des ingrédients bio et exotiques.",
+
+    "faq-ques-card-2": "Quels sont les prix des pots Madoudinette ?",
+    "faq-card2-p1": "Les pots seront proposés prochainement dans des formats pratiques et adaptés aux tout-petits : 180 g (salé) et 100 g (sucré).",
+    "faq-card2-p2": "Le prix d’un petit pot Madoudinette (entre 3,50 € et 4,80 €) reflète avant tout la qualité et l’exigence de nos recettes.",
+    "faq-card2-p3": "En choisissant Madoudinette, les parents offrent à leur bébé le meilleur du naturel, du goût et de la diversité.",
+
+    "faq-ques-card-3": "Qu’est-ce qui rend vos pots pour bébés sûrs et spéciaux ?",
+    "faq-card3-p1": "Chaque pot est préparé avec des ingrédients 100 % bio, cultivés sans pesticides, pour garantir la santé et la sécurité des tout-petits. Tous nos produits respectent les normes halal, assurant aux familles une alimentation conforme à leurs valeurs.",
+    "faq-card3-p2": "Enfin, nos recettes s’inspirent des saveurs du monde et d'ingrédients rares, sélectionnés pour éveiller la curiosité gustative et culturelle de bébé : - fonio, patate douce, mangue, coco, baobab…",
+
+    "faq-ques-card-4": "Quels sont les saveurs des petits pots proposées ?",
+    "faq-card4-p1": "Salé : Tcheb Poisson, Mafé Boeuf, Yassa Poulet, Pilao Poulet, Tajine Poulet",
+    "faq-card4-p2": "Sucré : Bissap, mangue, coco, baobab, moringa, datte, mil.",
+
+    "faq-ques-card-5": "À partir de quel âge les petits pots sont-ils adaptés ?",
+    "faq-card5-p1": "Nos recettes sont pensées pour les bébés dès 6 mois selon la phase de diversification alimentaire.",
+
+    "faq-ques-card-6": "Comment conserver les petits pots ?",
+    "faq-card6-p1": "Nos recettes sont stérilisées selon les normes alimentaires bébé, sans additifs ni conservateurs, pour une conservation longue durée en toute sécurité.",
+    "faq-card6-p2": "Tu pourras ainsi stocker les petits pots à température ambiante et les utiliser en toute tranquillité.",
+
+    "faq-ques-card-7": "Quels sont les allergènes ?",
+    "faq-card7-p1": "Certaines de nos recettes sont élaborées avec de l’arachide, du coco et du poisson.",
+    "faq-card7-p2": "La sécurité alimentaire est une priorité absolue. Chaque étiquette indiquera clairement les éventuels allergènes présents, pour une totale transparence.",
+    "faq-card7-p3": "Chez Madoudinette, notre mission est simple : rassurer les parents, éveiller les bébés, et transmettre le goût du vrai.",
+    
+    "faq-ques-card-8": "Quels sont les modes de livraison ?",
+    "faq-card8-p1": "Pour le moment, il n’y a pas encore de livraison, car les petits pots Madoudinette ne sont pas encore commercialisés.",
+    "faq-card8-p2": "Lorsque la vente sera ouverte, tu pourras choisir entre :",
+
+    "faq-card8-li1": "La livraison à domicile (envoi sécurisé en France métropolitaine)",
+    "faq-card8-li2": "Le retrait en main propre sur rendez-vous, lors de nos événements ou points de collecte en Île-de-France.",
+
+    "faq-card8-p3": "En attendant, tu peux venir déguster nos recettes en atelier ou t’inscrire pour être informé(e) du lancement officiel.",
+    "faq-card8-p4": "Chez Madoudinette, nous savons qu’avant de faire goûter un nouveau produit à son bébé, chaque parent se pose des questions importantes.",
+    "faq-card8-p5": "C’est normal.",
+    "faq-card8-p6": "C’est pourquoi nous faisons le maximum pour offrir transparence, sécurité et sérénité à chaque étape.",
+
+    "faq-ques-card-9": "Puis-je apprendre à les préparer moi-même ?",
+    "faq-card9-p1": "Oui ! Participe à nos ateliers de cuisine bébé pour découvrir comment préparer des purées et compotes maison avec des ingrédients exotiques et bio.",
+
+    "faq-ques-card-10": "C'est quoi les ateliers de cuisine bébé ?",
+    "faq-card10-p1": "Les ateliers Madoudinette sont ouverts aux parents et bébés dès 6 mois.",
+    "faq-card10-p2": "Tarif : 40 euros.",
+    "faq-card10-p3": "Ce prix comprend :",
+    "faq-card10-li1": "La participation à l’atelier (préparation d’un plat salé + d’un dessert)",
+    "faq-card10-li2": "Les ingrédients bio et exotiques fournis",
+    "faq-card10-li3": "Les fiches-recettes à emporter, et un moment d’échange et de conseils entre parents autour de l’alimentation du bébé",
+
+    "faq-ques-card-11": "Quelles sont les recettes proposées en ateliers ?",
+    "faq-card11-p1": "Chaque atelier met à l’honneur des ingrédients exotiques et de saison.",
+    "faq-card11-p2": "Pour le salé : Fonio, patate douce, courgette.",
+    "faq-card11-p3": "Pour le sucré : Mangue, banane, baobab.",
+    "faq-card11-p4": "Les recettes changent à chaque session pour varier les plaisirs et éveiller bébé aux saveurs du monde.",
+    
+
+    "_comment": "footer",
+    "footer-presentation-title": "Qui sommes nous ?",
+    "footer-about": "À propos",
+    "footer-qna": "FAQ",
+    "footer-news": "Actualités",
+
+    "footer-features-title": "Nos offres",
+    "footer-products": "Nos offres",
+    "footer-why": "Pourquoi nous choisir",
+    "footer-contact": "Contact",
+
+    "footer-useful-title": "Informations utiles ",
+    "footer-privacy": "Confidentialité",
+    "footer-terms": "Conditions générale",
+    "footer-team": "Notre équipe",
+
+    "footer-contact-title": "Contactez-nous",
+    "footerCopyright": "© 2025 Madoudinette. Tous droits réservés.",
+
+    "fname": "Votre prénom",
+    "sname": "Votre nom de famille",
+    "email": "Votre email",
+    "phoneNum": "Votre numéro de téléphone",
+    "subject": "Votre sujet..."
+}
