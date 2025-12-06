@@ -1334,6 +1334,10 @@ footer p {
         align-items: stretch; /* stretch permettra aux éléments flex de prendre toute la largeur sur l'axe secondaire (ici verticale, les éléments vont s'étirer horizontalement. align-items: flex-start n'aurait pas eu cet effet */
     }
 
+    .form-wrapper form .name-row {
+        flex-direction: column;
+    }
+
     .wrap-footer h3 {
         display: flex;
         align-items: center;
@@ -1418,3 +1422,4 @@ footer p {
     
 
 }
+
