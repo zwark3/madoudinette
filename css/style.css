@@ -1117,10 +1117,6 @@ footer a {
     letter-spacing: 2px;
 }
 
-.wrap-footer ul {
-    white-space: nowrap;
-}
-
 .wrap-footer h3 i {
     display: none;
 }
@@ -1329,6 +1325,7 @@ footer p {
     }
 
 }
+
 
 
 
