@@ -1375,6 +1375,13 @@ footer p {
 }
 
 
+@media screen and (max-width: 768px) {
+    body.produit .titre_produit {
+        display: none;
+    }
+}
+
+
 
 
 
