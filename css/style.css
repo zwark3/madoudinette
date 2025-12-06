@@ -1379,7 +1379,12 @@ footer p {
     body.produit .titre_produit {
         display: none;
     }
+
+    body .produit .fiche-produit {
+        width: 60%;
+    }
 }
+
 
 
 
