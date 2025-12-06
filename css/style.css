@@ -841,11 +841,13 @@ body.produit main{
 body.poulet .titre_produit{
     background-image: url("../img/produits/yassa5.jpg");
     background-position: 50% 0%;    
+    background-size: cover;
 }
 
 body.boeuf .titre_produit{
     background-image: url("../img/produits/mafe2.jpg");
-    background-size: 200%;    
+    background-size: 200%;
+    background-size: cover;
 }
 
 body.poisson .titre_produit{
@@ -897,16 +899,11 @@ body.poisson .titre_produit{
     padding: 5px;
 }
 
-.conteneur{
-    padding: 10px 0px;
-    display: flex;
-    justify-content: center;
-}
-
 .fiche_produit{
     background-color: #E7820A;
     border-radius: 10px;
     padding: 1.5rem 3rem;
+    margin: 0 auto;
 }
 
 .fiche_produit *{
@@ -1372,6 +1369,7 @@ footer p {
     }
 
 }
+
 
 
 
