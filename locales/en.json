@@ -84,23 +84,18 @@
     "products-features-bio": "Organic",
     "products-features-no-additives": "No additives",
 
+    "product-know-more": "Learn more",
+    "product-buy-more": "Buy now",
+    "product-add-basket": "Add to cart",
+
     "product-yassa-title": "Yassa Chicken",
     "product-yassa-desc": "The famous Senegalese recipe",
-    "product-yassa-button-learn": "Learn more",
-    "product-yassa-button-buy": "Buy now",
-    "product-yassa-button-cart": "Add to cart",
 
     "product-mafe-title": "Beef Mafé",
     "product-mafe-desc": "The classic of West Africa",
-    "product-mafe-button-learn": "Learn more",
-    "product-mafe-button-buy": "Buy now",
-    "product-mafe-button-cart": "Add to cart",
 
     "product-tieb-title": "Tieb Fish",
     "product-tieb-desc": "A unique culinary experience",
-    "product-tieb-button-learn": "Learn more",
-    "product-tieb-button-buy": "Buy now",
-    "product-tieb-button-cart": "Add to cart",
 
     "catalogue-contact-text": "Have a question? Contact us!",
     "catalogue-contact-button": "Contact us",
@@ -332,4 +327,5 @@
     "email": "Your email",
     "phoneNum": "Your phone number",
     "subject": "Your subject..."
+
 }
