@@ -6,7 +6,7 @@ const currentPage = window.location.pathname.slice(1, window.location.pathname.i
 
 // Responsive Design 
 openNavMobile.addEventListener('click', () => {
-    navMenu.style.width = '280px';
+    navMenu.style.width = '220px';
 });
 
 closeNavMobile.addEventListener('click', () => {
@@ -49,3 +49,4 @@ if (currentPage == 'contactez-nous') {
     })
 
 }
+
