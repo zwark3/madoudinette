@@ -39,23 +39,18 @@
     "products-features-bio": "Bio",
     "products-features-no-additives": "Sans additifs",
 
+    "product-know-more": "Learn more",
+    "product-buy-more": "Buy now",
+    "product-add-basket": "Add to cart",
+
     "product-yassa-title": "Yassa Poulet",
     "product-yassa-desc": "La célèbre recette sénégalaise",
-    "product-yassa-button-learn": "En savoir plus",
-    "product-yassa-button-buy": "Achetez maintenant",
-    "product-yassa-button-cart": "Ajoutez un panier",
 
     "product-mafe-title": "Mafé Boeuf",
     "product-mafe-desc": "Le grand classique d'Afrique de l'Ouest",
-    "product-mafe-button-learn": "En savoir plus",
-    "product-mafe-button-buy": "Achetez maintenant",
-    "product-mafe-button-cart": "Ajoutez un panier",
 
     "product-tieb-title": "Tieb Poisson",
     "product-tieb-desc": "Une expérience culinaire unique",
-    "product-tieb-button-learn": "En savoir plus",
-    "product-tieb-button-buy": "Achetez maintenant",
-    "product-tieb-button-cart": "Ajoutez un panier",
 
     "catalogue-contact-text": "Une question ? Contactez-nous !",
     "catalogue-contact-button": "Nous contacter",
@@ -293,3 +288,4 @@
     "phoneNum": "Votre numéro de téléphone",
     "subject": "Votre sujet..."
 }
+
