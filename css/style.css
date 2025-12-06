@@ -1228,8 +1228,12 @@ footer p {
 
     .inquiries-wrapper,
     .form-wrapper {
-        max-width: 50%;
+        max-width: 60%;
         width: 100%;
+    }
+
+    .inquiries-wrapper .inquiries-email p {
+        word-wrap: break-word
     }
     
     .form-wrapper form .name-row {
@@ -1374,6 +1378,7 @@ footer p {
     }
 
 }
+
 
 
 
