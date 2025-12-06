@@ -1111,7 +1111,6 @@ footer a {
 
 .wrap-footer h3 {
     display: inline-block;
-    white-space: nowrap;
     font-weight: 600;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -1359,6 +1358,7 @@ footer p {
     .
 
 }
+
 
 
 
