@@ -1228,7 +1228,7 @@ footer p {
 
     .inquiries-wrapper,
     .form-wrapper {
-        max-width: 100%;
+        max-width: 50%;
         width: 100%;
     }
     
@@ -1374,6 +1374,7 @@ footer p {
     }
 
 }
+
 
 
 
