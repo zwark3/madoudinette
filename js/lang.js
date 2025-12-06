@@ -34,7 +34,7 @@ document.querySelectorAll('a').forEach(link => {
 // Lorsque l’exécution est terminée, la fonction asynchrone émet un événement et transmet son résultat via celui-ci.
 // Autrement dit, lorsqu'on exécute une fonction asynchrone, elle prendra du temps pour accomplir ce qu'elle doit faire. Le programme ne l'attend pas et continue de son côté. Une fois qu'elle a terminé, elle envoie son résultat.
 async function getLanguageFile(lang) {
-    const response = await fetch(`madoudinette/locales${lang}.json`); // Le mot-clé "await" est utilisé pour les tâches qui prennent du temps. On attend d'abord qu'elle se conclut.
+    const response = await fetch(`/madoudinette/locales/${lang}.json`); // Le mot-clé "await" est utilisé pour les tâches qui prennent du temps. On attend d'abord qu'elle se conclut.
     return response.json();
 }
 
@@ -58,6 +58,7 @@ async function changePageLanguage(lang) {
 }
 
 changePageLanguage(langPage);
+
 
 
 
