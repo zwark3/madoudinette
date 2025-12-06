@@ -760,7 +760,7 @@ body.catalogue .catalogue-banner ul {
     padding: 5px;
 }
 
-.product-box .wrap-btn-product {
+     .wrap-btn-product {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -774,7 +774,7 @@ body.catalogue .para-qustion-cta {
     margin-top: 50px;
 }
 
-body.catalogue .btn-product {
+.btn-product {
     display: inline-block;
     color: white;
     padding: .7rem;
@@ -1384,6 +1384,7 @@ footer p {
         width: 80%;
     }
 }
+
 
 
 
