@@ -851,35 +851,29 @@ body.boeuf .titre_produit{
 body.poisson .titre_produit{
     background-image: url("../img/produits/tieb.jpg");
     background-position: 60% 0%;
-    background-size: 225%;    
+    background-size: cover;
 }
 .titre_produit{
     background-repeat: no-repeat;
     width: 50%;
-    padding: 3%;
+    padding: 1rem;
 }
-.titre_produit>h1{
-    font-size: 500%;
+.titre_produit > h1{
     color: floralwhite;
     text-shadow: 0px 0px 10px #52300f;
     font-weight: bold;
+    font-size: 1.3rem;
 }
-.titre_produit>h2{
+.titre_produit > h2{
     color: floralwhite;
     text-shadow: 0px 0px 10px #52300f;
     font-weight: bold;
-    font-size: 125%;
     font-style: italic;
 }
-.description_produit{
-    display: block;
-    justify-content: center;
-    align-items: center;
-    padding: 1%;
-}
+
 .presentation_produit{
-    padding: 10px 10px;
-    width: 90%;
+    padding: 1rem 1rem;
+    width: 80%;
 }
 
 .composition{
@@ -912,10 +906,7 @@ body.poisson .titre_produit{
 .fiche_produit{
     background-color: #E7820A;
     border-radius: 10px;
-    display: block;
-    justify-content: center;
-    padding: 2% 5%;
-    width: 50%;
+    padding: 1.5rem 3rem;
 }
 
 .fiche_produit *{
@@ -1381,6 +1372,7 @@ footer p {
     }
 
 }
+
 
 
 
