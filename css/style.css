@@ -724,8 +724,8 @@ body.catalogue .catalogue-banner ul {
     align-items: center;
     background-color: #FAB716;
     padding: .6rem;
-    width: 110px;
-    height: 110px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
 }
 
@@ -1378,6 +1378,7 @@ footer p {
     }
 
 }
+
 
 
 
