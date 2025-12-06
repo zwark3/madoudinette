@@ -1221,9 +1221,14 @@ footer p {
 
 @media screen and (max-width : 900px) {
 
+    body.contact-page main {
+        flex-direction: column;
+        align-items: center;
+    }
+
     .inquiries-wrapper,
     .form-wrapper {
-        max-width: 450px;
+        max-width: 350px;
     }
     
     .form-wrapper form .name-row {
@@ -1368,6 +1373,7 @@ footer p {
     }
 
 }
+
 
 
 
