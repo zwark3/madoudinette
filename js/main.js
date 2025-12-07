@@ -21,7 +21,7 @@ footerDropdownTitles.querySelectorAll('.footer-section h3').forEach(footerDropDo
     });
 });
 
-if (currentPage == 'contactez-nous') {
+if (currentPage.includes('contactez-nous') {
     // Transitions Contactez-nous
     // Survol des logos à côté du form
     const brandIcons = document.querySelectorAll('.inquiries-link a');
@@ -45,9 +45,10 @@ if (currentPage == 'contactez-nous') {
         link.addEventListener('mouseout', function() {
             link.classList.remove('instagram-hover', 'tiktok-hover', 'facebook-hover');
             icon.classList.remove('instagram-logo-col', 'tiktok-logo-col', 'facebook-logo-col');
-        })
-    })
+        });
+    });
 
 }
+
 
 
