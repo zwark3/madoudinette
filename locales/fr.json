@@ -14,10 +14,10 @@
     "follow": "Suivez-nous sur :",
 
     "contact-form-title": "Formulaire de contact",
-    "contact-name": "Prénom",
-    "contact-lastname": "Nom de famille",
+    "contact-name": "Prénom*",
+    "contact-lastname": "Nom de famille*",
     "contact-phone-number": "Numéro de téléphone",
-    "contact-subject": "Sujet",
+    "contact-subject": "Sujet*",
     "contact-required-fields": "Champs obligatoires",
     "contact-send-btn": "Envoyer",
     "contact-reset-btn": "Réinitialiser",
@@ -288,4 +288,5 @@
     "phoneNum": "Votre numéro de téléphone",
     "subject": "Votre sujet..."
 }
+
 
