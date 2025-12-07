@@ -57,13 +57,13 @@ input, button, textarea {
     color: var(--color-dark-green, #255b2c) !important;
 }
 
-.linkedin-hover {
-    border: 3px solid #0a66c2 !important;
-    box-shadow: 0 0 5px #0a66c2;
+.facebook-hover {
+    border: 3px solid #1877f2 !important;
+    box-shadow: 0 0 5px #1877f2;
 }
 
-.linkedin-logo-col {
-     color: #0a66c2;
+.facebook-logo-col {
+     color: #1877f2;
 }
 
 .instagram-hover {
@@ -1369,6 +1369,7 @@ footer p {
 
     
 }
+
 
 
 
