@@ -37,16 +37,17 @@ if (currentPage == 'contactez-nous') {
                 link.classList.add('tiktok-hover');
             }
             else {
-                icon.classList.add('linkedin-logo-col');
-                link.classList.add('linkedin-hover');
+                icon.classList.add('facebook-logo-col');
+                link.classList.add('facebook-hover');
             }
         })
 
         link.addEventListener('mouseout', function() {
-            link.classList.remove('instagram-hover', 'tiktok-hover', 'linkedin-hover');
-            icon.classList.remove('instagram-logo-col', 'tiktok-logo-col', 'linkedin-logo-col');
+            link.classList.remove('instagram-hover', 'tiktok-hover', 'facebook-hover');
+            icon.classList.remove('instagram-logo-col', 'tiktok-logo-col', 'facebook-logo-col');
         })
     })
 
 }
+
 
