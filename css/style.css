@@ -604,9 +604,11 @@ body.contact-page main {
     gap: 20px;
 }
 
+/*
 .required-star {
     color: #e21717;
 }
+*/
 
 .form-wrapper form .wrap-required-fields {
     display: flex;
@@ -1369,6 +1371,7 @@ footer p {
 
     
 }
+
 
 
 
