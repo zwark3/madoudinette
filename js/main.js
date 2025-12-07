@@ -21,7 +21,7 @@ footerDropdownTitles.querySelectorAll('.footer-section h3').forEach(footerDropDo
     });
 });
 
-if (currentPage.includes('contactez-nous') {
+if (currentPage.includes('contactez-nous')) { 
     // Transitions Contactez-nous
     // Survol des logos à côté du form
     const brandIcons = document.querySelectorAll('.inquiries-link a');
@@ -49,6 +49,7 @@ if (currentPage.includes('contactez-nous') {
     });
 
 }
+
 
 
 
