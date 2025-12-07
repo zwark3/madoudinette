@@ -60,10 +60,10 @@
     "follow": "Follow us on : ",
 
     "contact-form-title": "Contact form",
-    "contact-name": "Name",
-    "contact-lastname": "Last name",
-    "contact-phone-number": "Phone number",
-    "contact-subject": "Subject",
+    "contact-name": "Name *",
+    "contact-lastname": "Last name *",
+    "contact-phone-number": "Phone number *",
+    "contact-subject": "Subject *",
     "contact-required-fields": "Required fields",
     "contact-send-btn": "Send",
     "contact-reset-btn": "Reset",
@@ -329,3 +329,4 @@
     "subject": "Your subject..."
 
 }
+
